@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:25.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c8c0b74c8a15c1e1c4ef05b2e5b7a875/transformed/support-core-ui-25.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d3f16bf7073dec3d347cfbeaeb8a665/support-core-ui-25.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a14a33e4efa24f702fd65f36d8e214e4/transformed/support-core-ui-25.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8c0b74c8a15c1e1c4ef05b2e5b7a875/transformed/support-core-ui-25.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c8c0b74c8a15c1e1c4ef05b2e5b7a875/transformed/support-core-ui-25.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8c0b74c8a15c1e1c4ef05b2e5b7a875/transformed/support-core-ui-25.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/25.4.0/f8ef882b80480993917afad9558c8e8adbf83061/support-core-ui-25.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

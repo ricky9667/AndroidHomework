@@ -1,0 +1,4 @@
+#Thu Mar 03 13:22:35 CST 2022
+base.0=/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW3/108820008_HW3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,49 @@
+android/support/compat/R.java
+ android.support.compat.R
+android/support/fragment/R.java
+ android.support.fragment.R
+android/support/v4/R.java
+ android.support.v4.R
+com/example/android/scrollingtext/R.java
+ com.example.android.scrollingtext.R
+ com.example.android.scrollingtext.R$anim
+ com.example.android.scrollingtext.R$attr
+ com.example.android.scrollingtext.R$bool
+ com.example.android.scrollingtext.R$color
+ com.example.android.scrollingtext.R$dimen
+ com.example.android.scrollingtext.R$drawable
+ com.example.android.scrollingtext.R$id
+ com.example.android.scrollingtext.R$integer
+ com.example.android.scrollingtext.R$layout
+ com.example.android.scrollingtext.R$mipmap
+ com.example.android.scrollingtext.R$string
+ com.example.android.scrollingtext.R$style
+ com.example.android.scrollingtext.R$styleable
+android/support/coreutils/R.java
+ android.support.coreutils.R
+com/example/android/scrollingtext/BuildConfig.java
+ com.example.android.scrollingtext.BuildConfig
+android/support/mediacompat/R.java
+ android.support.mediacompat.R
+android/support/v7/appcompat/R.java
+ android.support.v7.appcompat.R
+ android.support.v7.appcompat.R$anim
+ android.support.v7.appcompat.R$attr
+ android.support.v7.appcompat.R$bool
+ android.support.v7.appcompat.R$color
+ android.support.v7.appcompat.R$dimen
+ android.support.v7.appcompat.R$drawable
+ android.support.v7.appcompat.R$id
+ android.support.v7.appcompat.R$integer
+ android.support.v7.appcompat.R$layout
+ android.support.v7.appcompat.R$string
+ android.support.v7.appcompat.R$style
+ android.support.v7.appcompat.R$styleable
+com/example/android/scrollingtext/MainActivity.java
+ com.example.android.scrollingtext.MainActivity
+android/support/coreui/R.java
+ android.support.coreui.R
+android/support/graphics/drawable/animated/R.java
+ android.support.graphics.drawable.animated.R
+android/support/graphics/drawable/R.java
+ android.support.graphics.drawable.R
