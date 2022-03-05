@@ -12,12 +12,12 @@
         <activity
             android:name=".HelloActivity"
             android:label="Hello Activity"
-            android:parentActivityName=".MainActivity"
+
             android:exported="false">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=
-                    "com.example.android.hellotoast.MainActivity" />
+<!--            <meta-data-->
+<!--                android:name="android.support.PARENT_ACTIVITY"-->
+<!--                android:value=-->
+<!--                    "com.example.android.hellotoast.MainActivity" />-->
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
