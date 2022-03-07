@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2018 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.implicitintents"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="15"
+23-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="26" />
+24-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml
+25
+26    <uses-feature
+26-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:20:5-22:35
+27        android:name="android.hardware.camera"
+27-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:21:9-47
+28        android:required="true" />
+28-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:22:9-32
+29
+30    <application
+30-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:24:5-38:19
+31        android:allowBackup="true"
+31-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:25:9-35
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+33-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:26:9-43
+34        android:label="@string/app_name"
+34-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:27:9-41
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:28:9-54
+36        android:supportsRtl="true"
+36-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:29:9-35
+37        android:theme="@style/AppTheme" >
+37-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:30:9-40
+38        <activity android:name="com.example.android.implicitintents.MainActivity" >
+38-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:31:9-37:20
+38-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:31:19-47
+39            <intent-filter>
+39-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:32:13-36:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:33:17-69
+40-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:33:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:35:17-77
+42-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW4/108820008_HW4-2/ImplicitIntents/app/src/main/AndroidManifest.xml:35:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <meta-data
+46-->[com.android.support:appcompat-v7:26.1.0] /Users/ricky9667/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+47            android:name="android.support.VERSION"
+47-->[com.android.support:appcompat-v7:26.1.0] /Users/ricky9667/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+48            android:value="26.1.0" />
+48-->[com.android.support:appcompat-v7:26.1.0] /Users/ricky9667/.gradle/caches/transforms-3/78afe7d364b9a8143977e8417923bcb2/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+49        <meta-data
+49-->[android.arch.lifecycle:runtime:1.0.0] /Users/ricky9667/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+50            android:name="android.arch.lifecycle.VERSION"
+50-->[android.arch.lifecycle:runtime:1.0.0] /Users/ricky9667/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+51            android:value="27.0.0-SNAPSHOT" />
+51-->[android.arch.lifecycle:runtime:1.0.0] /Users/ricky9667/.gradle/caches/transforms-3/9160c68286bde91f382f41b4f734f3c5/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+52    </application>
+53
+54</manifest>
