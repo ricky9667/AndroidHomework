@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/layout_activity_detail.xml.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_baseball.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_baseball.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_cycling.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_cycling.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/layout_list_item.xml.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_badminton.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_badminton.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_basketball.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_basketball.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_tennis.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_tennis.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_golf.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_golf.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_soccer.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_soccer.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_swimming.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_swimming.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_tabletennis.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_tabletennis.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/transition_shared_element.xml.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/transition/shared_element.xml"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_bowling.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_bowling.jpg"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_ic_reset.xml.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/ic_reset.xml"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/build/intermediates/merged_res/debug/drawable_img_running.jpg.flat",
+        "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW8/108820008_HW8-2/MaterialMe/app/src/main/res/drawable/img_running.jpg"
+    }
+]
