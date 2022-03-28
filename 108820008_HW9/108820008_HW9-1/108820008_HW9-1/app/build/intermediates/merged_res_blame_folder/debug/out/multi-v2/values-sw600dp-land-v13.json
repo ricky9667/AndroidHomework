@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW9/108820008_HW9-1/RecyclerView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW9/108820008_HW9-1/RecyclerView/app/src/main/res/values-sw600dp-land/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}
