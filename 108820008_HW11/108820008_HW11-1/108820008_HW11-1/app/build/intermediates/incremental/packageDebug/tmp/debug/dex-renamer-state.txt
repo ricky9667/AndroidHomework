@@ -1,0 +1,4 @@
+#Thu Apr 07 23:02:20 CST 2022
+base.0=/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-1/PowerReceiver/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
