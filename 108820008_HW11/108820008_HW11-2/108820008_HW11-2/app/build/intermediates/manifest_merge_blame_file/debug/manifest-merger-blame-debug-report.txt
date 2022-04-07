@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~
+4  ~   Copyright (C) 2018 Google Inc.
+5  ~
+6  ~   Licensed under the Apache License, Version 2.0 (the "License");
+7  ~   you may not use this file except in compliance with the License.
+8  ~   You may obtain a copy of the License at
+9  ~
+10  ~        http://www.apache.org/licenses/LICENSE-2.0
+11  ~
+12  ~   Unless required by applicable law or agreed to in writing, software
+13  ~   distributed under the License is distributed on an "AS IS" BASIS,
+14  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+15  ~   See the License for the specific language governing permissions and
+16  ~   limitations under the License.
+17  ~
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.android.example.notifymereview"
+21    android:versionCode="1"
+22    android:versionName="1.0" >
+23
+24    <uses-sdk
+25        android:minSdkVersion="14"
+25-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+26        android:targetSdkVersion="27" />
+26-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+27
+28    <application
+28-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:23:5-37:19
+29        android:allowBackup="true"
+29-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:24:9-35
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:25:9-43
+32        android:label="@string/app_name"
+32-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:26:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:27:9-54
+34        android:supportsRtl="true"
+34-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:28:9-35
+35        android:theme="@style/AppTheme" >
+35-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:29:9-40
+36        <activity android:name="com.android.example.notifyme.MainActivity" >
+36-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:30:9-36:20
+36-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:30:19-75
+37            <intent-filter>
+37-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:31:13-35:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:32:17-69
+38-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:32:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:34:17-77
+40-->/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:34:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

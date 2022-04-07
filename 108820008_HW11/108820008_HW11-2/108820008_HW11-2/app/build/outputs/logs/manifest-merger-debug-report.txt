@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/91c57ba27c7a066ef72bfa60a7f0541c/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/fe8eae51087e02b4cffe0c580d831351/transformed/constraint-layout-1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8638c38dab583948b5f01408fd0233cb/transformed/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1aa11f525116022254e049359b441450/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8c2e0a1f42b46c52a1bad2b1def5deef/transformed/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/024f4b1fb37bbfff0d9a8ea2ab9620ff/transformed/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/481dccf3dd6999c4fd0402fcaad2a95e/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b59c8ada706fa873f7dfbe608f2ca3de/transformed/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/c32450899bed0700e98cb16f3744aba1/transformed/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/3188fc9b757583f3bff9f38cd14e8ac0/transformed/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/36aab05a4bc0951cd60ddc0a25099262/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/137db197ec40878915d6db3eecd90339/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:21:5-43
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:20:11-69
+application
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/fe8eae51087e02b4cffe0c580d831351/transformed/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/fe8eae51087e02b4cffe0c580d831351/transformed/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/91c57ba27c7a066ef72bfa60a7f0541c/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/91c57ba27c7a066ef72bfa60a7f0541c/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/fe8eae51087e02b4cffe0c580d831351/transformed/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/fe8eae51087e02b4cffe0c580d831351/transformed/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8638c38dab583948b5f01408fd0233cb/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8638c38dab583948b5f01408fd0233cb/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1aa11f525116022254e049359b441450/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1aa11f525116022254e049359b441450/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8c2e0a1f42b46c52a1bad2b1def5deef/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/8c2e0a1f42b46c52a1bad2b1def5deef/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/024f4b1fb37bbfff0d9a8ea2ab9620ff/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/024f4b1fb37bbfff0d9a8ea2ab9620ff/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/481dccf3dd6999c4fd0402fcaad2a95e/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/481dccf3dd6999c4fd0402fcaad2a95e/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b59c8ada706fa873f7dfbe608f2ca3de/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b59c8ada706fa873f7dfbe608f2ca3de/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/c32450899bed0700e98cb16f3744aba1/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/c32450899bed0700e98cb16f3744aba1/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/3188fc9b757583f3bff9f38cd14e8ac0/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/3188fc9b757583f3bff9f38cd14e8ac0/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/36aab05a4bc0951cd60ddc0a25099262/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/36aab05a4bc0951cd60ddc0a25099262/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/137db197ec40878915d6db3eecd90339/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/137db197ec40878915d6db3eecd90339/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW11/108820008_HW11-2/NotifyMe/app/src/main/AndroidManifest.xml
