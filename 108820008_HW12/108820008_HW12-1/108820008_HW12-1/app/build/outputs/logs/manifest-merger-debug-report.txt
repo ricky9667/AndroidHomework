@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1532a98d59eb43d3f32e237969cae5c1/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/4476b3f77fe11d23ff2752b310d88a82/transformed/constraint-layout-1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/ef68e3f99d9c9861892f6023dae2d6b0/transformed/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b3d27e439368dfd5f7e1f6cbeb8f5821/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b00b4b2ca587c44b70a3356adbe0e835/transformed/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/beeea2acf8abd55704276da96dd837a7/transformed/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/6aa14acbab0b615bd7c3dbb39474ce54/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/e0436a4d642ce4bb755663d5392e7cb4/transformed/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/dbdc2d174bf5317ca7afd84c621bfb43/transformed/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/2831812aa55c7935f4e51c96cb03edf3/transformed/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/4ed70376016c3c002134986e4dabfec8/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/320eb3d2802f6f7edf1f395f4f22bf51/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:19:5-47
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:21:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/4476b3f77fe11d23ff2752b310d88a82/transformed/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/4476b3f77fe11d23ff2752b310d88a82/transformed/constraint-layout-1.1.2/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.android.fundamentals.standup.MainActivity
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:32:27-74
+receiver#com.android.fundamentals.standup.AlarmReceiver
+ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:enabled
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml:37:13-42
+uses-sdk
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1532a98d59eb43d3f32e237969cae5c1/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/1532a98d59eb43d3f32e237969cae5c1/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/4476b3f77fe11d23ff2752b310d88a82/transformed/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ricky9667/.gradle/caches/transforms-3/4476b3f77fe11d23ff2752b310d88a82/transformed/constraint-layout-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/ef68e3f99d9c9861892f6023dae2d6b0/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/ef68e3f99d9c9861892f6023dae2d6b0/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b3d27e439368dfd5f7e1f6cbeb8f5821/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b3d27e439368dfd5f7e1f6cbeb8f5821/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b00b4b2ca587c44b70a3356adbe0e835/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/b00b4b2ca587c44b70a3356adbe0e835/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/beeea2acf8abd55704276da96dd837a7/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/beeea2acf8abd55704276da96dd837a7/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/6aa14acbab0b615bd7c3dbb39474ce54/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/6aa14acbab0b615bd7c3dbb39474ce54/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/e0436a4d642ce4bb755663d5392e7cb4/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ricky9667/.gradle/caches/transforms-3/e0436a4d642ce4bb755663d5392e7cb4/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/dbdc2d174bf5317ca7afd84c621bfb43/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/dbdc2d174bf5317ca7afd84c621bfb43/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/2831812aa55c7935f4e51c96cb03edf3/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/2831812aa55c7935f4e51c96cb03edf3/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/4ed70376016c3c002134986e4dabfec8/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/4ed70376016c3c002134986e4dabfec8/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/320eb3d2802f6f7edf1f395f4f22bf51/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ricky9667/.gradle/caches/transforms-3/320eb3d2802f6f7edf1f395f4f22bf51/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ricky9667/dev/Projects/StandUp/app/src/main/AndroidManifest.xml
