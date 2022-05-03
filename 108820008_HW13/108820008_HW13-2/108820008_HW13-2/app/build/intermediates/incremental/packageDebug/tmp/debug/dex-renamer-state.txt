@@ -1,0 +1,4 @@
+#Tue May 03 23:41:49 CST 2022
+base.0=/Users/ricky9667/dev/Projects/AndroidHomework/108820008_HW13/108820008_HW13-2/DroidCafeWithSettings/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
